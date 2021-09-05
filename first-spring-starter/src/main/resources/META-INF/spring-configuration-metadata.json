@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "spring.user.name",
+      "type": "java.lang.String[]",
+      "defaultValue": [
+        "zhangdehong"
+      ]
+    },
+    {
+      "name": "spring.user.enabled",
+      "type": "java.lang.Boolean",
+      "defaultValue": true
+    }
+  ]
+}
